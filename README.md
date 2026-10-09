@@ -1,4 +1,4 @@
-# Personal Portfolio for the IoT/MCU class <at university/school>
+Ricengineers Databases Group
 
 > When you start editing this file, remove this description.
 >
